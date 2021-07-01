@@ -1,0 +1,4 @@
+package office;
+class ClonferenceHall {
+	
+}
